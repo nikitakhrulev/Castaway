@@ -1,0 +1,27 @@
+.social_networks {
+    display: flex;
+    column-gap: 10px;
+}
+.footer__nav {
+    display: flex;
+    column-gap: 120px;
+    margin-right: 40px;
+}
+.footer__container {
+    display: flex;
+}
+.footer__nav-item__list-list a {
+    color: rgba(255, 255, 255, 1)
+}
+.footer__nav-item__list-list a:hover {
+    color: rgba(17, 141, 168, 1);
+}
+.footer__logo {
+    margin-bottom: 20px;
+}
+.logo__container {
+    margin-right: 240px;
+}
+footer {
+    padding-bottom: 116px;
+}
